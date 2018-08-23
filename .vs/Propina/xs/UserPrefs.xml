@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.Propina.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E94278E1-4CE6-4339-828F-57E2BEDC6F9E" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Propina/MainPage.xaml">
     <Files>
-      <File FileName="Propina/MainPage.xaml" Line="55" Column="27" />
-      <File FileName="Propina/MainPage.xaml.cs" Line="25" Column="44" />
+      <File FileName="Propina/MainPage.xaml" Line="22" Column="38" />
+      <File FileName="Propina/MainPage.xaml.cs" Line="28" Column="29" />
       <File FileName="Propina.Android/Resources/values/styles.xml" Line="2" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
