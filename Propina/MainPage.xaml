@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Propina" x:Class="Propina.MainPage">
+    <StackLayout
+       
+        Margin="0,50">
+        <!-- Place new controls here -->
+
+        <TableView  Intent="Form"
+                    >
+           
+            <TableSection
+                Title="Datos Generales">
+
+                <EntryCell
+                    x:Name="Etotal"
+                    Label="Total"
+                    Placeholder="Ingrese Total"
+                    Keyboard="Numeric"
+                    
+                />
+                   <EntryCell
+                    x:Name="Epropina"
+                    Label="Propina"
+                    Placeholder="Ingrese Propina"
+                    Keyboard="Numeric"
+                    
+                />
+                   <EntryCell
+                    x:Name="Enpersonas"
+                    Label="Numero De Personas"
+                    Placeholder="Ingrese Numero De Personas"
+                    Keyboard="Numeric"
+                    
+                />
+                </TableSection>
+            
+                <TableSection>
+                    <ViewCell>
+                        <Button
+                        Text="Calcular"
+                        Clicked="Handle_Clicked"
+                        >
+                        
+                    </Button>
+                
+                    </ViewCell>
+                </TableSection> 
+            
+            <TableSection
+            Title="Resultado"
+            >
+                <TextCell
+                    x:Name="Tpropina"
+                Text="Propina"
+                Detail="0"
+
+
+                />
+                <TextCell
+                    x:Name="Total"
+                Text="Total"
+                Detail="0"
+
+                />
+                <TextCell
+                    x:Name="Tpropinap"
+                Text="Propina Por Persona"
+                Detail="0"
+
+                />
+                <TextCell
+                    x:Name="Ttpersona"
+                Text="Total Por Persona"
+                Detail="0"
+
+                />
+                
+                
+                
+                
+            </TableSection>
+
+                
+            
+            
+
+
+        </TableView>
+
+        
+    </StackLayout>
+</ContentPage>

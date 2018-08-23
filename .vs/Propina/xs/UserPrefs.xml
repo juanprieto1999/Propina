@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{BFD08163-9326-4528-85A4-EDD91E700D3A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Propina.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E94278E1-4CE6-4339-828F-57E2BEDC6F9E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Propina/MainPage.xaml">
+    <Files>
+      <File FileName="Propina/MainPage.xaml" Line="55" Column="27" />
+      <File FileName="Propina/MainPage.xaml.cs" Line="25" Column="44" />
+      <File FileName="Propina.Android/Resources/values/styles.xml" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Propina.Android PreferredExecutionTarget="Android.Adsi_21" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Propina FirstBuild="True" />
+</Properties>
